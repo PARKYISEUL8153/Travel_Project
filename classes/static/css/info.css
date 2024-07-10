@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+	html {height : 100%;}
+	body{min-height : auto; }
+
+
+	#headline { margin-top :100px;margin-left : 800px;margin-right : 800px; text-align: center; font-size: 70px;}
+	#maintext { margin:80px; font-size: 30px; font-weight: 400;}
+	
+	footer{display: flex;}
+
